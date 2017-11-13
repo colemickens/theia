@@ -69,6 +69,9 @@
       "@theia/go/lib/*": [
         "packages/go/src/*"
       ],
+      "@theia/rust/lib/*": [
+        "packages/rust/src/*"
+      ],
       "@theia/process/lib*": [
         "packages/process/src/*"
       ],
